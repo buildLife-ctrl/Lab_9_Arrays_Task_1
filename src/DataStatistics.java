@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class DataStatistics {
     public static void main(String[] args) {
         Random rand = new Random();
         int value = 0;
